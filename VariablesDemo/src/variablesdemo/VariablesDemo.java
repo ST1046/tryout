@@ -48,6 +48,13 @@ public class VariablesDemo {
         isRegistered = response.equals("yes");
         System.out.println("Registered:" + isRegistered);
         
+        //adding additional infor to see if git works
+                //adding additional infor to see if git works
+                        //adding additional infor to see if git works
+                                //adding additional infor to see if git works
+                                        //adding additional infor to see if git works
+                                                //adding additional infor to see if git works
+        
         //close scanner
         input.close();
         
